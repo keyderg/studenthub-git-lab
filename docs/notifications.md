@@ -10,5 +10,7 @@ StudentHub podrá notificar:
 
 \- apertura de cursos;
 
-\- cancelaciones.
+\- cancelaciones;
+
+\-confirmación de matricula;
 
