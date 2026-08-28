@@ -24,3 +24,11 @@ Centralizar información académica de estudiantes y cursos.
 
 0.1.0
 
+
+
+\## Repository
+
+
+
+Managed with Git and GitHub.
+
